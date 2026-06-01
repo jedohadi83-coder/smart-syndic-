@@ -1,0 +1,6 @@
+{
+  "name": "Syndic Copropriété",
+  "description": "Plateforme SaaS moderne de gestion de syndic d'immeuble et co-propriété avec assistant IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
